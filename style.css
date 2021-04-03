@@ -2,4 +2,7 @@ body {
     background-color: #8cc5d6;
     font-size: small;
 }
+p{
+    margin:0 auto;
+}
 
